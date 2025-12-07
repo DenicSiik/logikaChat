@@ -15,12 +15,12 @@ A simple chat client with **customtkinter** library, featuring a sliding menu, a
 ## Requirements
 ```
   customtkinter
-  ```
-    Python v3.0.0 or more
-  ```
-  ```
-    Server
-  ```
+```
+```
+  Python v3.0.0 or more
+```
+```
+  Server
 ```
 & more than 5 iq
 
