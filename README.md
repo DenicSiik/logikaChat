@@ -18,8 +18,7 @@ A simple chat client with **customtkinter** library, featuring a sliding menu, a
 - **Server**
 
 You can use this server code -
-```
-py
+```py
 import socket
 import threading
 
