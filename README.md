@@ -13,16 +13,13 @@ A simple chat client with **customtkinter** library, featuring a sliding menu, a
 - **Displays new messages instantly**
 
 ## Requirements
+- **customtkinter**
+- **Python v3.0.0 or better**
+- **Server**
+
+You can use this server code -
 ```
-  customtkinter
-```
-```
-  Python v3.0.0 or more
-```
-  Server
-  You can use this -
-```
-  import socket
+import socket
 import threading
 
 HOST = '0.0.0.0'
@@ -66,7 +63,6 @@ def main():
 
 main()
 ```
-& more than 5 iq
 
 ## Launching
 ```
