@@ -15,7 +15,6 @@ A simple chat client with **customtkinter** library, featuring a sliding menu, a
 ## Requirements
   ```
   customtkinter
-  & more than 5 iq
   ```
-
+  & more than 5 iq
 
