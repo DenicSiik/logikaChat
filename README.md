@@ -20,5 +20,5 @@ A simple chat client with **customtkinter** library, featuring a sliding menu, a
 
 ## Launching
 ```
-  pythin logiChat.py
+  python logikaChat.py
 ```
