@@ -13,8 +13,12 @@ A simple chat client with **customtkinter** library, featuring a sliding menu, a
 - **Displays new messages instantly**
 
 ## Requirements
-  ```
+```
   customtkinter
-  ```
-  & more than 5 iq
+```
+& more than 5 iq
 
+## Launching
+```
+  pythin logiChat.py
+```
