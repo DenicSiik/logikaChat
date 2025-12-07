@@ -12,3 +12,9 @@ A simple chat client with **customtkinter** library, featuring a sliding menu, a
 - **Listens for messages on a daemon thread**
 - **Displays new messages instantly**
 
+## Requirements
+  ```
+  customtkinter
+  ```
+- & more than 5 iq
+
