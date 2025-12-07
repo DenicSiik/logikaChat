@@ -22,3 +22,10 @@ A simple chat client with **customtkinter** library, featuring a sliding menu, a
 ```
   python logikaChat.py
 ```
+
+## File functions
+- `show_menu()` : controls menu
+- `menu_anim()` : smooth animation for menu
+- `send_message()` : sends user messages to the server
+- `get_messages()` : listens to incoming messages and displays them
+- `adaptive_UI()` : scales the UI to your device
